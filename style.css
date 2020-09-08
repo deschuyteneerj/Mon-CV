@@ -89,6 +89,19 @@ section:not(:first-child):hover {
     grid-row: 6;
 }
 
+.langues {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.lb {
+    grid-row: 2;
+}
+
+.lc {
+    grid-row: 3;
+}
+
 .autres {
     display: grid;
     grid-template-columns: 1fr 3fr;
