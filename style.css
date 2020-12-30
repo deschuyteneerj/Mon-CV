@@ -64,6 +64,14 @@ section:not(:first-child):hover {
     grid-row: 5;
 }
 
+.pf {
+    grid-row: 6;
+}
+
+.pg {
+    grid-row: 7;
+}
+
 .formation {
     display: grid;
     grid-template-columns: 1fr 3fr;
@@ -87,6 +95,10 @@ section:not(:first-child):hover {
 
 .ff {
     grid-row: 6;
+}
+
+.fg {
+    grid-row: 7;
 }
 
 .langues {
